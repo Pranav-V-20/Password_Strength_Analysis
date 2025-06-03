@@ -1,5 +1,7 @@
 # 🔐 Password Strength Evaluation and Analysis
 
+> Task 6 - Elevate Labs - Cyber Security Intern
+
 This project explores password strength by creating and analyzing various passwords using online tools. It aims to help users understand what makes a strong password, evaluate different password formats, and learn best practices for security.
 
 ## 📌 Objective
