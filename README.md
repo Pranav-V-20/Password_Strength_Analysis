@@ -24,12 +24,10 @@ See [`report.md`](report.md) for a detailed breakdown of the analysis and result
 
 ```
 password-strength-evaluation/
-├── report.md # Detailed password strength evaluation report
+├── report.pdf # Detailed password strength evaluation report
 ├── passwords.csv # Example passwords and results (optional)
 ├── password_tester.py # (Optional) Simple script to test password patterns
 ├── README.md # Project introduction and structure
-├── LICENSE # MIT License
-└── CONTRIBUTING.md # How to contribute to this project
 ```
 
 ## 💡 Best Practices Summary
