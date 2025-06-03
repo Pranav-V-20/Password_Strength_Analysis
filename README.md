@@ -18,7 +18,7 @@ This project explores password strength by creating and analyzing various passwo
 
 ## 📄 Report
 
-See [`report.md`](report.md) for a detailed breakdown of the analysis and results.
+See [`report.pdf`](report.pdf) for a detailed breakdown of the analysis and results.
 
 ## 📂 Project Structure
 
